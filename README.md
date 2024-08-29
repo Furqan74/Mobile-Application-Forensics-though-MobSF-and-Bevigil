@@ -10,5 +10,20 @@ I recently completed an eye opening project on malware-injected applications. By
 
 ![image](https://github.com/user-attachments/assets/18fc138f-edc0-4c6b-8522-1161d4f535d5)
 
+![image](https://github.com/user-attachments/assets/7d2fcee3-608e-4a10-b4e6-cbea89b5e5b6)
 
-[1722888515142.pdf](https://github.com/user-attachments/files/16804107/1722888515142.pdf)
+![image](https://github.com/user-attachments/assets/0d8abb03-00f0-412d-a4e4-91c153b22433)
+
+![image](https://github.com/user-attachments/assets/cbff066d-3b8d-46d8-a0cb-0840c3b0588a)
+
+![image](https://github.com/user-attachments/assets/91751bce-7f8b-49f4-9d2e-f9e0be8b006d)
+
+![image](https://github.com/user-attachments/assets/d91eef2f-fd9f-48cf-a3e7-3fd5140469ae)
+
+![image](https://github.com/user-attachments/assets/5f016c02-1851-45fc-9f72-6896b5a655ad)
+
+![image](https://github.com/user-attachments/assets/b1fb9de9-4066-49ba-9706-f1e60bc6bc6f)
+
+![image](https://github.com/user-attachments/assets/316e439a-3d4b-458a-b157-88d4b5ce3b81)
+
+Project File -> [1722888515142.pdf](https://github.com/user-attachments/files/16804107/1722888515142.pdf)
